@@ -6,3 +6,5 @@ The sum problem is an extended form of the classical a-plus-b problem. It asks a
 * Python: python 3.7.5
 * Ruby: ruby 2.6.5
 * Shell: bash 3.2.57
+* Objective-C 2.0: clang (-ObjC -fmodules)
+* Swift: swift 5.1.2
