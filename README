@@ -1,6 +1,7 @@
 The sum problem is an extended form of the classical a-plus-b problem. It asks a program to read many integers separated by whitespace in one line and then write out their sum. Since at least I/O and iteration are involved, the solutions to this problem should be a good way to exhibit the characteristics of various programming languages. For your information, the compilers (or interpreters) I used and their versions are listed below:
 
-- Pascal: fpc 3.0.4
-- C: clang 9.0.0
-- C++: clang++ 9.0.0
-
+* Pascal: fpc 3.0.4
+* C: clang 9.0.0
+* C++: clang++ 9.0.0
+* Python: python 3.7.5
+* Ruby: ruby 2.6.5
