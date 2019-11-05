@@ -8,3 +8,4 @@ The sum problem is an extended form of the classical a-plus-b problem. It asks a
 * Shell: bash 3.2.57
 * Objective-C 2.0: clang (-ObjC -fmodules)
 * Swift: swift 5.1.2
+* JavaScript (ES6+): node 12.12.0
