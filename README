@@ -5,3 +5,4 @@ The sum problem is an extended form of the classical a-plus-b problem. It asks a
 * C++: clang++ 9.0.0
 * Python: python 3.7.5
 * Ruby: ruby 2.6.5
+* Shell: bash 3.2.57
