@@ -17,3 +17,5 @@ The summation problem, which is extended from the classical a-plus-b problem, is
 * C#: dotnet 3.0.100
 * Scheme (R6RS): chez 9.5.2
 * Common Lisp: sbcl 1.5.7
+* Standard ML: smlnj 110.94
+* OCaml: ocaml 4.08.1
