@@ -13,3 +13,5 @@ The summation problem, which is extended from the classical a-plus-b problem, is
 * Erlang: escript 22.1.5
 * Elixir: elixir 1.9.2
 * Fortran: gfortran 9.2.0
+* Java: java 13.0.1
+* C#: dotnet 3.0.100
