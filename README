@@ -9,3 +9,4 @@ The sum problem is an extended form of the classical a-plus-b problem. It asks a
 * Objective-C 2.0: clang (-ObjC -fmodules)
 * Swift: swift 5.1.2
 * JavaScript (ES6+): node 12.12.0
+* Smalltalk: gst 3.2.5
