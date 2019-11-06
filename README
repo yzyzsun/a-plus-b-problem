@@ -19,3 +19,4 @@ The summation problem, which is extended from the classical a-plus-b problem, is
 * Common Lisp: sbcl 1.5.7
 * Standard ML: smlnj 110.94
 * OCaml: ocaml 4.08.1
+* F#: dotnet 3.0.100
