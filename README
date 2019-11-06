@@ -15,3 +15,5 @@ The summation problem, which is extended from the classical a-plus-b problem, is
 * Fortran: gfortran 9.2.0
 * Java: java 13.0.1
 * C#: dotnet 3.0.100
+* Scheme (R6RS): chez 9.5.2
+* Common Lisp: sbcl 1.5.7
