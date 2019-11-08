@@ -20,3 +20,4 @@ The summation problem, which is extended from the classical a-plus-b problem, is
 * Standard ML: smlnj 110.94
 * OCaml: ocaml 4.08.1
 * F#: dotnet 3.0.100
+* Haskell: ghc 8.8.1
