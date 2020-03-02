@@ -21,3 +21,4 @@ The summation problem, which is extended from the classical a-plus-b problem, is
 * OCaml: ocaml 4.08.1
 * F#: dotnet 3.0.100
 * Haskell: ghc 8.8.1
+* Clojure: clj 1.10.1.510
