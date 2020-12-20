@@ -28,3 +28,4 @@ version are listed below:
 * Haskell: ghc 8.8.1
 * Clojure: clj 1.10.1.510
 * Scala: scala 2.13.1
+* Rust: rustc 1.48.0
