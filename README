@@ -1,4 +1,10 @@
-The summation problem, which is extended from the classical a-plus-b problem, is a programming challenge for beginners. It asks a programmer to read many integers separated by whitespace in one line and then write out their sum. Although simple, different solutions to this problem can exhibit the characteristics of various programming languages. For your information, the compiler (or interpreter) I used for each language and its version are listed below:
+The summation problem, extended from the classical a-plus-b problem, is a
+programming challenge for beginners. A programmer is asked to write a program to
+read multiple integers separated by whitespace from a single line and then print
+out their sum. Although not difficult, different solutions to this problem can
+exhibit the characteristics of different programming languages. For your
+information, the compiler (or interpreter) I used for each language and its
+version are listed below:
 
 * Pascal: fpc 3.0.4
 * C: clang 9.0.0
@@ -12,7 +18,6 @@ The summation problem, which is extended from the classical a-plus-b problem, is
 * Smalltalk: gst 3.2.5
 * Erlang: escript 22.1.5
 * Elixir: elixir 1.9.2
-* Fortran: gfortran 9.2.0
 * Java: java 13.0.1
 * C#: dotnet 3.0.100
 * Scheme (R6RS): chez 9.5.2
